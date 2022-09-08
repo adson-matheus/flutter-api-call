@@ -1,16 +1,5 @@
-# flutter_nv1
+# Listando cidades do RN em um app Flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Tutorial [Curso Flutter Básico [NV1] - 2022](https://www.youtube.com/playlist?list=PLRpTFz5_57cvo0CHf-AnojOvpznz8YO7S) de Deivid Willyan
+* Uso da API do [Brasil API - dados do IBGE](https://brasilapi.com.br/).
+* Uso do Padrão MVC
